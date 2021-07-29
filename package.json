@@ -1,6 +1,6 @@
 {
   "name": "native-sample-app",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "private": false,
   "description": "A simple and fully customizable React Native component that implements a IM-Card and IM-Btton UI.",
   "main": "index.js",
