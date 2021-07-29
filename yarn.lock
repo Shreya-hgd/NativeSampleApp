@@ -5152,6 +5152,25 @@
     "react-tween-state" "^0.1.5"
     "tween-functions" "^1.0.1"
 
+"native-sample-app@^0.0.1":
+  "integrity" "sha512-5bQ8Nd18oqNyB3vE7ab4eknscGRh7YU0a3NYvx2LQ4rw07nqXXza1tEHBLnDJIjWBpMcyi00yEUf6aCWEv8m1g=="
+  "resolved" "https://registry.npmjs.org/native-sample-app/-/native-sample-app-0.0.1.tgz"
+  "version" "0.0.1"
+  dependencies:
+    "native-base" "^2.15.2"
+    "react" "17.0.1"
+    "react-native" "0.64.2"
+
+"native-sample-app@^0.0.2":
+  "integrity" "sha512-uIvm4NEQLf+V58MBgx8LDJzCSA62/z2Nl/5sACHJI3UCYJvqLKsOde9pLEocGgKy/jjVLb+yTS9e62/nVfnvVg=="
+  "resolved" "https://registry.npmjs.org/native-sample-app/-/native-sample-app-0.0.2.tgz"
+  "version" "0.0.2"
+  dependencies:
+    "native-base" "^2.15.2"
+    "native-sample-app" "^0.0.1"
+    "react" "17.0.1"
+    "react-native" "0.64.2"
+
 "natural-compare@^1.4.0":
   "integrity" "sha1-Sr6/7tdUHywnrPspvbvRXI1bpPc="
   "resolved" "https://registry.npmjs.org/natural-compare/-/natural-compare-1.4.0.tgz"
