@@ -2,7 +2,7 @@
   "name": "native-sample-app",
   "version": "0.0.2",
   "private": false,
-  "description": "A simple and fully customizable React Native component that implements a card and button UI.",
+  "description": "A simple and fully customizable React Native component that implements a IM-Card and IM-Btton UI.",
   "main": "index.js",
   "scripts": {
     "android": "react-native run-android",
@@ -28,7 +28,7 @@
     "Button",
     "Card",
     "IM-Button",
-    "IN-Card"
+    "IM-Card"
   ],
   "dependencies": {
     "native-base": "^2.15.2",
